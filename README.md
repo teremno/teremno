@@ -1,4 +1,4 @@
-# Oleksandr Smuryhin
+# Oleksandr S.
 
 I use AI tools and vibe-coding workflows to build small practical applications while developing my software fundamentals.
 
